@@ -27,7 +27,7 @@ You’ll typically have:
 🙌 Acknowledgments
 
 1) Datasets inspired by Book-Crossing Dataset from Kaggle
-   Link: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+Link: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
 2) Tutorial & concept reference
-   link: https://www.youtube.com/watch?v=1YoD0fg3_EM&list=PLKnIA16_RmvY5eP91BGPa0vXUYmIdtfPQ&index=28 
+link: https://www.youtube.com/watch?v=1YoD0fg3_EM&list=PLKnIA16_RmvY5eP91BGPa0vXUYmIdtfPQ&index=28 
